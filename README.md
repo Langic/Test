@@ -24,7 +24,7 @@
 在本地创建一个文件夹作为本地仓库
 在该文件夹中创建要用的文件等
 在git-bash中进行该文件夹路径，执行 * git init 初始化仓库(会出现一个隐藏文件夹.git)
-执行 * git add . 将所有文件添加到仓库，添加单个文件用 * git add filename(注意该文件的路径)
+执行* git add . 将所有文件添加到仓库，添加单个文件用 * git add filename(注意该文件的路径)
 执行 * git commit -m "log des" 去提交文件(双引号内是提交注释)
 
 7.关联GitHub仓库
